@@ -7,6 +7,7 @@
     "eslint:recommended",
     "plugin:react/recommended",
     "plugin:@typescript-eslint/recommended",
+    "plugin:storybook/recommended",
     "plugin:prettier/recommended"
   ],
   "overrides": [],
@@ -15,7 +16,7 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
-  "plugins": ["react", "@typescript-eslint", "prettier"],
+  "plugins": ["react", "@typescript-eslint", "prettier", "storybook"],
   "rules": {
     "prettier/prettier": ["error"],
     "indent": ["error", 4],
