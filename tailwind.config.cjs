@@ -21,6 +21,8 @@ module.exports = {
           200: '#C4C4CC',
           100: '#E1E1E6',
         },
+
+        trasnparent: 'transparent',
       },
       fontSize: {
         xs: 14,
